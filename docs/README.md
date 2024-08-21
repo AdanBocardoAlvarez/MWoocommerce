@@ -24,7 +24,7 @@ Once you're ready to move forward, consider one of the following:
 
 The WooCommerce ecosystem thrives on community contributions. Whether it's improving documentation, reporting bugs, or contributing code, we greatly appreciate every contribution from our community. 
 
-- To contribute to **the core WooCommerce project**, check out our [Contributing guide](https://github.com/woocommerce/woocommerce/blob/trunk/.github/CONTRIBUTING.md).
+- To contribute to **the core WooCommerce project**, check out our [Contributing guide](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/.github/CONTRIBUTING.md).
 - To contribute to **documentation** please refer to the [documentation style guide](style-guide.md).
 
 ## Support
@@ -45,51 +45,51 @@ Some directories contain documentation about their own contents, in the form of 
 
 Available READMe files for the WooCommerce plugin: 
 
-- [`Root README`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/README.md)
-- [`i18n/languages`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/i18n/languages/README.md)
-- [`includes`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/includes/README.md)
-- [`lib`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/lib/README.md)
-- [`packages`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/packages/README.md)
-- [`src`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/src/README.md)
-- [`src/Admin/RemoteInboxNotifications`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/src/Admin/RemoteInboxNotifications/README.md)
-- [`src/Admin/RemoteInboxNotifications/Transformers`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/src/Admin/RemoteInboxNotifications/Transformers/README.md)
-- [`src/Blocks`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/src/Blocks/README.md)
-- [`src/Internal`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/src/Internal/README.md)
-- [`src/Internal/Admin/ProductForm`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/src/Internal/Admin/ProductForm/README.md)
-- [`src/TransientFiles`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/src/TransientFiles/README.md)
-- [`tests`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/tests/README.md)
-- [`tests/api-core-tests`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/tests/api-core-tests/README.md)
-- [`tests/e2e`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/tests/e2e/README.md)
-- [`tests/e2e-pw`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/tests/e2e-pw/README.md)
-- [`tests/performance`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/tests/performance/README.md)
-- [`tests/Tools/CodeHacking`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/tests/Tools/CodeHacking/README.md)
+- [`Root README`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/README.md)
+- [`i18n/languages`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/i18n/languages/README.md)
+- [`includes`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/includes/README.md)
+- [`lib`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/lib/README.md)
+- [`packages`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/packages/README.md)
+- [`src`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/src/README.md)
+- [`src/Admin/RemoteInboxNotifications`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/src/Admin/RemoteInboxNotifications/README.md)
+- [`src/Admin/RemoteInboxNotifications/Transformers`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/src/Admin/RemoteInboxNotifications/Transformers/README.md)
+- [`src/Blocks`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/src/Blocks/README.md)
+- [`src/Internal`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/src/Internal/README.md)
+- [`src/Internal/Admin/ProductForm`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/src/Internal/Admin/ProductForm/README.md)
+- [`src/TransientFiles`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/src/TransientFiles/README.md)
+- [`tests`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/tests/README.md)
+- [`tests/api-core-tests`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/tests/api-core-tests/README.md)
+- [`tests/e2e`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/tests/e2e/README.md)
+- [`tests/e2e-pw`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/tests/e2e-pw/README.md)
+- [`tests/performance`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/tests/performance/README.md)
+- [`tests/Tools/CodeHacking`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce/tests/Tools/CodeHacking/README.md)
 
 Available READMe files for the WooCommerce Admin plugin:
 
-- [`Root README`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/README.md)
-- [`client/activity-panel`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/activity-panel/README.md)
-- [`client/activity-panel/activity-card`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/activity-panel/activity-card/README.md)
-- [`client/activity-panel/activity-header`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/activity-panel/activity-header/README.md)
-- [`client/analytics/report`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/analytics/report/README.md)
-- [`client/analytics/settings`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/analytics/settings/README.md)
-- [`client/dashboard`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/dashboard/README.md)
-- [`client/header`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/header/README.md)
-- [`client/marketing`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/README.md)
-- [`client/marketing/components/button`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/components/button/README.md)
-- [`client/marketing/components/card`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/components/card/README.md)
-- [`client/marketing/components/product-icon`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/components/product-icon/README.md)
-- [`client/utils`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/utils/README.md)
-- [`client/wp-admin-scripts`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/client/wp-admin-scripts/README.md)
-- [`docs`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/docs/README.md)
-- [`docs/examples`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/docs/examples/README.md)
-- [`docs/examples/extensions`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/docs/examples/extensions/README.md)
-- [`docs/features`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/docs/features/README.md)
-- [`docs/woocommerce.com`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-admin/docs/woocommerce.com/README.md)
+- [`Root README`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/README.md)
+- [`client/activity-panel`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/activity-panel/README.md)
+- [`client/activity-panel/activity-card`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/activity-panel/activity-card/README.md)
+- [`client/activity-panel/activity-header`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/activity-panel/activity-header/README.md)
+- [`client/analytics/report`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/analytics/report/README.md)
+- [`client/analytics/settings`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/analytics/settings/README.md)
+- [`client/dashboard`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/dashboard/README.md)
+- [`client/header`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/header/README.md)
+- [`client/marketing`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/README.md)
+- [`client/marketing/components/button`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/components/button/README.md)
+- [`client/marketing/components/card`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/components/card/README.md)
+- [`client/marketing/components/product-icon`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/marketing/components/product-icon/README.md)
+- [`client/utils`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/utils/README.md)
+- [`client/wp-admin-scripts`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/client/wp-admin-scripts/README.md)
+- [`docs`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/docs/README.md)
+- [`docs/examples`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/docs/examples/README.md)
+- [`docs/examples/extensions`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/docs/examples/extensions/README.md)
+- [`docs/features`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/docs/features/README.md)
+- [`docs/woocommerce.com`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-admin/docs/woocommerce.com/README.md)
 
 Available READMe files for the WooCommerce Beta Tested plugin:
 
-- [`Root README`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-beta-tester/README.md)
-- [`src/tools`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-beta-tester/src/tools/README.md)
-- [`userscripts`](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce-beta-tester/userscripts/README.md)
+- [`Root README`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-beta-tester/README.md)
+- [`src/tools`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-beta-tester/src/tools/README.md)
+- [`userscripts`](https://github.com/AdanBocardoAlvarez/MWoocommerce/blob/trunk/plugins/woocommerce-beta-tester/userscripts/README.md)
 - 
 This is last version of Ecommerce Project (AdanBocardoAlvarez)
